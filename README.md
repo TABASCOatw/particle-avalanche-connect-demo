@@ -19,7 +19,7 @@ Particle Connect is a collection of wallet adapters and components capable of fa
 
 ##
 
-[Demo screenshot](https://i.imgur.com/1YY24h7.png)
+![Demo screenshot](https://i.imgur.com/1YY24h7.png)
 
 👉 Try the demo: https://particle-avalanche-connect-demo.replit.app/
 

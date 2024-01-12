@@ -19,8 +19,7 @@ ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
             appId: process.env.REACT_APP_APP_ID as string,
             chains: [Avalanche],
             connectors: [
-                ...evmWallets({ projectId: '21d2a01621c47fb5f34b06c6390ac0bb', showQrModal: true }),
-                ...solanaWallets(),
+                ...evmWallets({ projectId: '21d2a01621c47fb5f34b06c6390ac0bb', showQrModal: true })
             ],
             erc4337: {
               name: "SIMPLE",
